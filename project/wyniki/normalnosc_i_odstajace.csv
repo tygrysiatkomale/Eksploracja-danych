@@ -1,0 +1,11 @@
+zmienna,liczba_odstajacych,shapiro_p_value,rozkład_normalny_alpha_0_05
+tkl_int_per90,10,1.4925099483734743e-09,False
+ga_per90,51,7.305154935043298e-37,False
+prgp_per90,42,3.7430280298813516e-24,False
+gls_per90,78,3.4138501462932676e-44,False
+xg_per90,99,1.2724021722821311e-43,False
+sh_per90,16,6.123435051828896e-31,False
+sot_per90,34,1.969431999456589e-36,False
+touches_per90,17,6.350162266499045e-10,False
+kp_per90,22,2.2805077212510516e-26,False
+carries_per90,41,5.288996651603866e-21,False
